@@ -1,2 +1,2 @@
 # files-challenge
-All of the challengges throughout the quarter
+All of the challenges throughout the quarter
