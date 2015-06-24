@@ -1,2 +1,2 @@
 # files-challenge
-All of the challenges throughout the quarter
+files-challenge is a repository for the master version of my first project
