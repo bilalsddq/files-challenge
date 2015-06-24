@@ -1,2 +1,2 @@
 # files-challenge
-First challenge of the quarter (Getting started with git)
+All of the challengges throughout the quarter
