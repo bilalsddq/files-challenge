@@ -1,12 +1,6 @@
-<img> src="nina-dobrev-the-vampire-diaries-originals-crossover.jpg" width="200" height="300">
-[33mcommit e727aa553aa404a01ca7dc73c769b3676360ad93[m
-Author: bilalsddq <bilalsddq@hotmail.com>
-Date:   Wed Jun 24 01:06:00 2015 -0700
-
-    Character image is added to the img file
-
-[33mcommit 63a6268729486ad34241360eba6b270b165f6975[m
-Author: bilalsddq <bilalsddq@hotmail.com>
-Date:   Tue Jun 23 22:53:26 2015 -0700
-
-<img src="nina-dobrev-the-vampire-diaries-originals-crossover.jpg" width="150" height="200"> 
+<DOCTYPE html>
+<html>
+<body>
+	<img src="nina-dobrev-the-vampire-diaries-originals-crossover.jpg" width="250" height="200">
+</body>
+</html> 
